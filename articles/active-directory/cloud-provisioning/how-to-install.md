@@ -30,7 +30,7 @@ To install the agent, follow these steps.
 
 1. Sign in to the server you'll use with enterprise admin permissions.
 1. Go to the Azure portal. On the left, select **Azure Active Directory**.
-1. Select **Manage provisioning (preview)** > **Review all agents**.
+1. Select **Azure AD Connect** > **Manage provisioning (preview)** > **Review all agents**.
 1. Download the Azure AD Connect provisioning agent from the Azure portal.
 
    ![Download on-premises agent](media/how-to-install/install9.png)</br>
